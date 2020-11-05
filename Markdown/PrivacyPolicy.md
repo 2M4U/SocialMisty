@@ -24,6 +24,7 @@ We use this data to better personalize your experience on SocialMisty such as:
 
 - Custom Prefixes
 - Log channels (such as audit logs, mod logs, etc)
+- Shoutbox (such as UserID, IP, Message and other stuff) 
 - All information in the `Data Collection` section.
 
 You are not obligated to send any form of data, but if said command is used, it will be added to our database.
