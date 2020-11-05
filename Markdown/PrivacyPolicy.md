@@ -37,7 +37,7 @@ We use your data so, we can attach your information to SocialMisty so you can cu
 We do not share your data with any third party sources, your user/guild data is kept locally on our system, so only we can access this. 
 Your data is stored locally in a Mongoose database.
 
-**Contacts**
+**Contact Us**
 
 You can contact us via email [here](mailto:contact@socialmisty.com?subject=Privacy%20Policy). (`contact@socialmisty.com`)
 
